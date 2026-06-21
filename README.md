@@ -22,9 +22,8 @@ A graphical Snake game using the `turtle` module.
 - Optional: `winsound` (Windows only, for sound effects)
 
 **How to Play:**
-```bash
-python SnakeGame.py
-```
+run the code in your python executor or console panel
+
 - Use **Up**, **Down**, **Left**, **Right** arrow keys to move
 - Press **Ctrl+C** to exit
 
@@ -40,9 +39,8 @@ A simple interactive coin flip game with score tracking.
 - Easy to stop with Ctrl+C
 
 **How to Play:**
-```bash
-python CoinFlipGame.py
-```
+run the code in your python executor or console panel
+
 - Press **Enter** to flip the coin
 - Watch your running score
 - Press **Ctrl+C** to stop and exit
@@ -71,7 +69,7 @@ python CoinFlipGame.py
 ## 📝 License
 
 This project is open source and free to use.
-
+With apache license v2
 ## 🤝 Contributing
 
 Feel free to fork this repository and add more games or improve existing ones!
