@@ -1,4 +1,5 @@
-# 🎮 Helobro3 - Python Games Collection
+# 🎮 Helobro3
+![image](assets/image1.png)
 
 A fun collection of classic games built in Python! Includes a **Snake Game** with graphics and a **Coin Flip Game** for probability fun.
 
